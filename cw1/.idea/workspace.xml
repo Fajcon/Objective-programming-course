@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b114e14d-d5a5-4626-a128-659ddbdb38bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cw2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw2/src/punkty/Punkt2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw2/src/punkty/Punkt3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw2/src/punkty/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrame/COOValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrame/SparseDataFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/cw3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/src/Builder/EmailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/src/shapes/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/src/shapes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/src/shapes/Prostokąt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/src/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3/src/shapes/Trójkąt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw2/src/punkty/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw2/src/punkty/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,43 +38,63 @@
     <session id="-1549211150">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="45" />
+          <entry key="java" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="45" />
+          <entry key="JAVA" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4452" />
+          <entry key="java" value="4626" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4452" />
+          <entry key="JAVA" value="4626" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataFrame/DataFrame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataFrame/SparseDataFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataFrame/COOValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -73,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/src/DataFrame/DataFrameProgram.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="42" />
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -106,9 +136,11 @@
         <option value="$PROJECT_DIR$/src/LiczbyPierwsze.java" />
         <option value="$PROJECT_DIR$/src/macierze/Macierz.java" />
         <option value="$PROJECT_DIR$/src/macierze/MacierzProgram.java" />
-        <option value="$PROJECT_DIR$/src/DataFrame/DataFrame.java" />
         <option value="$PROJECT_DIR$/src/DataFrame/DataFrameProgram.java" />
         <option value="$PROJECT_DIR$/src/myPackage/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/DataFrame/DataFrame.java" />
+        <option value="$PROJECT_DIR$/src/DataFrame/SparseDataFrame.java" />
+        <option value="$PROJECT_DIR$/src/DataFrame/COOValue.java" />
       </list>
     </option>
   </component>
@@ -161,8 +193,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539091558254" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539857484103" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -273,17 +305,19 @@
       <workItem from="1539074154703" duration="5062000" />
       <workItem from="1539088074583" duration="78000" />
       <workItem from="1539088762397" duration="1257000" />
+      <workItem from="1539588603196" duration="3336000" />
+      <workItem from="1539860085066" duration="791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22581000" />
+    <option name="totallyTimeSpent" value="26708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27071825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28018942" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,7 +326,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,17 +439,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataFrame/COOValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataFrame/SparseDataFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataFrame/DataFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataFrame/DataFrameProgram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="42" />
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
