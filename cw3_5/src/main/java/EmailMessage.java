@@ -1,4 +1,3 @@
-package Builder;
 
 import java.util.LinkedList;
 
@@ -28,12 +27,12 @@ public class EmailMessage {
     public static class Builder{
 
         private String from;
-        private LinkedList<String> to = new LinkedList<>();
+        private LinkedList<String> to = new LinkedList();
         private String subject;
         private String content;
         private String mimeType;
-        private LinkedList<String> cc = new LinkedList<>();;
-        private LinkedList<String> bcc = new LinkedList<>();;
+        private LinkedList<String> cc = new LinkedList();;
+        private LinkedList<String> bcc = new LinkedList();;
 
         public Builder addFrom(String _from){
             from = _from;

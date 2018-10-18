@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1268383-4f4b-4396-b55f-42107a5d7d87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cw1/src/DataFrame/COOValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw1/src/DataFrame/SparseDataFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/EmailMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shapes/Kwadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shapes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shapes/Prostokąt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shapes/Trójkąt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_5/src/main/java/EmailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_5/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/cw3_zad5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw3_zad5/src/main/java/Email/EmailMessage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw2/src/punkty/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw2/src/punkty/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Builder/EmailMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/EmailMessage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,43 +31,49 @@
     <session id="-1942238158">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="973" />
+          <entry key="java" value="1212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="973" />
+          <entry key="JAVA" value="1212" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Builder/EmailMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
-              <folding>
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="9" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Builder/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -93,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/shapes/Koło.java" />
         <option value="$PROJECT_DIR$/src/shapes/Main.java" />
         <option value="$PROJECT_DIR$/src/shapes/Prostokąt.java" />
+        <option value="$PROJECT_DIR$/src/Builder/Main.java" />
         <option value="$PROJECT_DIR$/src/Builder/EmailMessage.java" />
       </list>
     </option>
@@ -104,10 +112,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="63" />
-    <option name="y" value="44" />
-    <option name="width" value="1293" />
-    <option name="height" value="704" />
+    <option name="x" value="53" />
+    <option name="y" value="-4" />
+    <option name="width" value="1291" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,20 +139,27 @@
               <item name="cw3" type="b2602c69:ProjectViewProjectNode" />
               <item name="cw3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cw3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cw3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shapes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539857484162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539862368849" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -160,7 +175,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Builder.Main" />
+      <module name="cw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shapes.Main" />
       <module name="cw3" />
@@ -174,8 +202,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -190,45 +223,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539860155027</updated>
-      <workItem from="1539860158939" duration="4524000" />
+      <workItem from="1539860158939" duration="5886000" />
+      <workItem from="1539858906495" duration="1049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4524000" />
+    <option name="totallyTimeSpent" value="6935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25335437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32919255" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32919255" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24940805" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +270,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/shapes/Trójkąt.java">
@@ -252,20 +290,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shapes/Koło.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shapes/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shapes/Koło.java" />
     <entry file="file://$PROJECT_DIR$/src/shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -280,14 +305,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/shapes/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Builder/EmailMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
-          <folding>
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Builder/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-end-line="12" />
         </state>
       </provider>
     </entry>
