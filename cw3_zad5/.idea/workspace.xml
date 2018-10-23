@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5da0478b-088a-4baa-a6ba-72b9bc9395f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cw5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw5/cw5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw5/src/moviesub/DelaySub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/misc.xml" beforeDir="false" />
@@ -18,13 +24,8 @@
       <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/EmailMessage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Email/EmailMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Email/EmailMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Email/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Email/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/Cryptographer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Cryptographer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/Polibiusz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Polibiusz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/ROT11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/ROT11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Program.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,12 +39,12 @@
     <session id="-950955433">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,13 +59,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="267" />
+          <entry key="java" value="866" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="267" />
+          <entry key="JAVA" value="866" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -72,48 +73,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="17" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Email/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="292">
+              <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#921#1079#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Email/EmailMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="108" column="5" lean-forward="true" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
                 <element signature="e#604#605#0" expanded="true" />
                 <element signature="e#638#639#0" expanded="true" />
                 <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#842#843#0" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,8 +120,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Email/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Email/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Email/EmailMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Email/Main.java" />
       </list>
     </option>
   </component>
@@ -214,10 +198,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540204095799" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540311560995" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,18 +251,19 @@
       <workItem from="1539859707029" duration="2522000" />
       <workItem from="1540194115798" duration="1139000" />
       <workItem from="1540199958221" duration="613000" />
-      <workItem from="1540285173018" duration="1653000" />
+      <workItem from="1540285173018" duration="3769000" />
+      <workItem from="1540299157144" duration="4643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5927000" />
+    <option name="totallyTimeSpent" value="12686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26124704" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26598263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +272,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960536" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -292,7 +280,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039464" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -314,44 +302,112 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="17" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Email/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Email/EmailMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="108" column="5" lean-forward="true" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
             <element signature="e#604#605#0" expanded="true" />
             <element signature="e#638#639#0" expanded="true" />
             <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Email/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#921#1079#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cw3_zad5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.activation:activation:1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
