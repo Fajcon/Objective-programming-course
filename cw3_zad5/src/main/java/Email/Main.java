@@ -13,6 +13,7 @@ public class Main {
         EmailMessage wiadomosc = EmailMessage.builder()
                 .addFrom("kuba.ficon23@gmail.com")
                 .addTo("adspammail50@gmail.com")
+                .addTo("kuba.ficon23@gmail.com")
                 .addSubject("Mail testowy")
                 .addContent("Brak tresci")
                 .build();
@@ -41,7 +42,9 @@ public class Main {
         try {
             MimeMessage message = new MimeMessage(session);
             message.setFrom(new InternetAddress(wiadomosc.getFrom()));
-            message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(wiadomosc.getTo().get(0)));
+            for (int i = 0; i < wiadomosc.getTo().size(); i++) {
+                message.addRecipients(Message.RecipientType.TO, InternetAddress.parse(wiadomosc.getTo().get(i)));
+            }
             message.setSubject(wiadomosc.getSubject());
             message.setText(wiadomosc.getContent());
             Transport.send(message);
