@@ -1,17 +1,17 @@
-package crytpo;
+package crypto;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class program {
+public class Program {
     public static void main(String[] argv) {
-        /*int szyfrowanie = 0;
+        int szyfrowanie = 0;
         int algorytm = 0;
         File in = new File(argv[0]);
-        rintWriter fileout = null;
+        PrintWriter out = null;
         try {
-            fileout = new PrintWriter(argv[1]);
+            out = new PrintWriter(argv[1]);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -43,9 +43,9 @@ public class program {
             else if(szyfrowanie == 2){
                 Cryptographer.decryptfile(in, out, new Polibiusz());
             }
-        }*/
+        }
 
-        Polibiusz test = new Polibiusz();
+        /*Polibiusz test = new Polibiusz();
         File filein = new File("testin.txt");
         PrintWriter fileout = null;
         try {
@@ -53,6 +53,6 @@ public class program {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        Cryptographer.decryptfile(filein, fileout, test);
+        Cryptographer.decryptfile(filein, fileout, test);*/
     }
 }

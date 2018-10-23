@@ -1,4 +1,4 @@
-package crytpo;
+package crypto;
 
 public class ROT11 implements Algorithm {
     int ascii;

@@ -2,6 +2,8 @@ package Email;
 
 
 import java.util.LinkedList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class EmailMessage {
     private String from; //required (must be e-mail)
@@ -63,13 +65,22 @@ public class EmailMessage {
         private String mimeType;
         private LinkedList<String> cc = new LinkedList();;
         private LinkedList<String> bcc = new LinkedList();;
-
         public Builder addFrom(String _from){
-            from = _from;
+            Pattern compiledPattern = Pattern.compile("[^\\d^ ^_^\\.^_][\\w\\d\\.!#$%&'*+\\-/=?^_`{|}~]+@\\w+\\.\\w+");
+            Matcher matcher = compiledPattern.matcher(_from);
+            if(matcher.matches()) from = _from;
+            else{
+                System.out.println("To nie jest mail");
+            }
             return this;
         }
         public Builder addTo(String _to){
-            to.add(_to);
+            Pattern compiledPattern = Pattern.compile("[^\\d^ ^_^\\.^_][\\w\\d\\.!#$%&'*+\\-/=?^_`{|}~]+@\\w+\\.\\w+");
+            Matcher matcher = compiledPattern.matcher(_to);
+            if(matcher.matches()) to.add(_to);
+            else{
+                System.out.println("To nie jest mail");
+            }
             return this;
         }
         public Builder addSubject(String _subject){

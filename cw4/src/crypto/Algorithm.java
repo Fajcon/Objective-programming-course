@@ -1,4 +1,4 @@
-package crytpo;
+package crypto;
 
 interface Algorithm {
     String crypt(String in);

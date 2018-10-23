@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5da0478b-088a-4baa-a6ba-72b9bc9395f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cw4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/cw4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/src/crytpo/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/src/crytpo/Cryptographer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/src/crytpo/Polibiusz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/src/crytpo/ROT11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw4/src/crytpo/program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/misc.xml" beforeDir="false" />
@@ -28,6 +18,13 @@
       <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/EmailMessage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Email/EmailMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Email/EmailMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/Cryptographer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Cryptographer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/Polibiusz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Polibiusz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/ROT11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/ROT11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/src/crytpo/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/crypto/Program.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,7 +42,8 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,13 +58,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="190" />
+          <entry key="java" value="267" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="190" />
+          <entry key="JAVA" value="267" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -83,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Email/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="150">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,12 +93,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Email/EmailMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="305">
+              <caret line="108" column="5" lean-forward="true" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#447#448#0" expanded="true" />
                 <element signature="e#474#475#0" expanded="true" />
                 <element signature="e#515#516#0" expanded="true" />
@@ -137,8 +136,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Email/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Email/EmailMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Email/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Email/EmailMessage.java" />
       </list>
     </option>
   </component>
@@ -171,8 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,6 +207,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,17 +264,18 @@
       <workItem from="1539859707029" duration="2522000" />
       <workItem from="1540194115798" duration="1139000" />
       <workItem from="1540199958221" duration="613000" />
+      <workItem from="1540285173018" duration="1653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4274000" />
+    <option name="totallyTimeSpent" value="5927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2573007" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26124704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +284,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,7 +293,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32972136" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,11 +319,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Email/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Email/EmailMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="305">
+          <caret line="108" column="5" lean-forward="true" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#474#475#0" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
@@ -338,16 +349,6 @@
             <element signature="e#800#801#0" expanded="true" />
             <element signature="e#842#843#0" expanded="true" />
             <element signature="e#868#869#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Email/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,4 +1,4 @@
-package crytpo;
+package crypto;
 
 import java.io.File;
 import java.io.FileNotFoundException;
