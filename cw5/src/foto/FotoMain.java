@@ -30,9 +30,11 @@ public class FotoMain {
                 resultDouble = entry.getValue();
             }
         }
-        boolean success = (new File("/home/ficon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_"))).mkdirs();
-        if (!success) {
-            throw new DirectorCreationException();
+        if (!new File("/home/ficon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_")).exists()) {
+            boolean success = (new File("/home/ficon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_"))).mkdirs();
+            if (!success) {
+                throw new DirectorCreationException();
+            }
         }
         pathToSrc = Paths.get(Image);
         pathToDst = Paths.get("/home/ficon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_") + "/" + Image.substring(Image.lastIndexOf("/") + 1));
@@ -60,7 +62,7 @@ public class FotoMain {
                         e.printStackTrace();
                         //throw new WrongAPIKeyException();
                     } catch (DirectorCreationException e) {
-                        e.printStackTrace();
+                        System.out.println(e.getMessage());
                     }
                 });
     }
