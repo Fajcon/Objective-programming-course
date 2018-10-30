@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45980d4-d5a5-41af-92aa-597aa003a1b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/moviesub/WrongFramesException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/workspace.xml" beforeDir="false" />
@@ -15,24 +16,9 @@
       <change beforePath="$PROJECT_DIR$/../cw3_5/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/EmailMessage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/foto/FotoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foto/FotoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/Egyptian_cat/kkott.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/Egyptian_cat/kottt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/EntleBucher/pies2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/bald_eagle,_American_eagle,_Haliaeetus_leucocephalus/orzel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/black_stork,_Ciconia_nigra/bocian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/cassette_player/teesla.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/curly-coated_retriever/kon2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/golden_retriever/pies.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/golden_retriever/pies3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/indri,_indris,_Indri_indri,_Indri_brevicaudatus/rosomak.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/oil_filter/shadow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/pug,_pug-dog/pies4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/schipperke/kot2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecia_posegregowane/waffle_iron/tesla.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moviesub/DelaySub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviesub/DelaySub.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,32 +48,33 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1409" />
+          <entry key="java" value="1462" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1409" />
+          <entry key="JAVA" value="1462" />
         </counts>
       </usages-collector>
     </session>
@@ -126,11 +113,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/foto/FotoMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="62" column="59" selection-start-line="62" selection-start-column="59" selection-end-line="62" selection-end-column="59" />
+            <state relative-caret-position="360">
+              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,10 +139,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
-              <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -163,12 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/foto/NotFotoException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -176,21 +155,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/foto/NoDirException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="260">
+              <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -199,10 +174,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/moviesub/WrongFramesException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+            <state>
+              <caret selection-end-line="10" />
               <folding>
                 <element signature="e#174#175#0" expanded="true" />
                 <element signature="e#204#205#0" expanded="true" />
@@ -234,12 +222,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/moviesub/NoMatchException.java" />
-        <option value="$PROJECT_DIR$/src/moviesub/DelaySub.java" />
         <option value="$PROJECT_DIR$/src/foto/NoDirException.java" />
         <option value="$PROJECT_DIR$/src/foto/NotFotoException.java" />
         <option value="$PROJECT_DIR$/src/foto/DirectorCreationException.java" />
         <option value="$PROJECT_DIR$/src/foto/WrongAPIKeyException.java" />
         <option value="$PROJECT_DIR$/src/foto/FotoMain.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/WrongFramesException.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/DelaySub.java" />
       </list>
     </option>
   </component>
@@ -267,8 +256,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,7 +294,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540812360028" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540895753654" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -325,10 +314,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FotoMain">
+  <component name="RunManager" selected="Application.DelaySub">
     <configuration name="DelaySub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moviesub.DelaySub" />
       <module name="cw5" />
+      <option name="PROGRAM_PARAMETERS" value="gravity.txt out.txt 1000 24" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="moviesub.*" />
@@ -377,8 +367,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FotoMain" />
         <item itemvalue="Application.DelaySub" />
+        <item itemvalue="Application.FotoMain" />
         <item itemvalue="Cucumber java.All Features in: moviesub" />
       </list>
     </recent_temporary>
@@ -398,6 +388,7 @@
       <workItem from="1540745029917" duration="2924000" />
       <workItem from="1540748161658" duration="7711000" />
       <workItem from="1540802681267" duration="5409000" />
+      <workItem from="1540895347475" duration="394000" />
     </task>
     <servers />
   </component>
@@ -407,13 +398,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21165000" />
+    <option name="totallyTimeSpent" value="21559000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
+    <frame x="52" y="-11" width="1315" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17363852" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17600632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -460,64 +451,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/foto/NoDirException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/ReferencePipeline.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="120" selection-start-line="120" selection-end-line="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/foto/NotFotoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/foto/DirectorCreationException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -528,10 +465,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/DirectorCreationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/NotFotoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/NoDirException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/foto/FotoMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="62" column="59" selection-start-line="62" selection-start-column="59" selection-end-line="62" selection-end-column="59" />
+        <state relative-caret-position="360">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/WrongFramesException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
