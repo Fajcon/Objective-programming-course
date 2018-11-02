@@ -60,7 +60,7 @@ public class FotoMain {
                         e.printStackTrace();
                     } catch (IndicoException e) {
                         e.printStackTrace();
-                        //throw new WrongAPIKeyException();
+//                        throw new WrongAPIKeyException();
                     } catch (DirectorCreationException e) {
                         System.out.println(e.getMessage());
                     }
