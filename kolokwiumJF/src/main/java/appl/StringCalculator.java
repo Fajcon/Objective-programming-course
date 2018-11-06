@@ -22,15 +22,7 @@ public class StringCalculator extends Calculator implements Cloneable {
 
     @Override
     public void Substract(String x) throws NothingToSubstractFromException, BadInputException {
-        int test = result.length();
-        for (int j = 0; j< test; j++) {
-            for (int i = 0; i < result.length() - x.length(); i++) {
-                if (result.substring(0, x.length()).equals(x)) {
-                    result = new StringBuilder().append(result.substring(0, i)).append(result.substring(i + x.length(), result.length())).toString();
-                    
-                }
-            }
-        }
+        result.replaceAll(x, "");
     }
 
     @Override

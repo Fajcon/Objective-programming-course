@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45980d4-d5a5-41af-92aa-597aa003a1b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/src/main/java/appl/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/src/main/java/appl/StringCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/src/main/java/excp/BadInputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/src/main/java/excp/NothingToSubstractFromException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/src/main/java/excp/TooBigNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolokwiumJF/src/test/java/appl/StringCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/kolokwium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwiumJF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolokwiumJF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwiumJF/src/main/java/appl/StringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kolokwiumJF/src/main/java/appl/StringCalculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
