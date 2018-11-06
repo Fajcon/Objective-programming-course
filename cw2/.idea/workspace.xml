@@ -2,6 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcba0ea9-91e3-4343-95eb-725996239122" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../cw1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/cw1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/DataFrame/DataFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/DataFrame/DataFrameProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/LiczbyPierwsze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/LoginProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/javaIn/JIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/macierze/Macierz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/macierze/MacierzProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/myPackage/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/pesel/Pesel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/pesel/PeselProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/out/production/cw1/witajswiecie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/DataFrame/COOValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/DataFrame/DataFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/DataFrame/DataFrameProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/DataFrame/SparseDataFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/LiczbyPierwsze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/LoginProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/javaIn/JIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/macierze/Macierz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/macierze/MacierzProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/myPackage/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/pesel/Pesel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/pesel/PeselProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw1/src/witajswiecie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/modules.xml" beforeDir="false" />
@@ -18,6 +56,25 @@
       <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw3_zad5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw3_zad5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/InadequateFoodException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Mammoth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Meat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/test/java/ATest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/test/java/MammothTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxheap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maxheap/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,9 +91,10 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -72,11 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/punkty/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +141,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/punkty/Punkt3D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -120,7 +177,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="53" />
     <option name="y" value="-4" />
     <option name="width" value="1291" />
@@ -132,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,6 +211,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -165,7 +222,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539091619885" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw3" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -233,17 +290,18 @@
       <workItem from="1539858888498" duration="15000" />
       <workItem from="1540196183221" duration="636000" />
       <workItem from="1540285169550" duration="2066000" />
+      <workItem from="1541496376244" duration="1660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11377000" />
+    <option name="totallyTimeSpent" value="13037000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="24" width="1313" height="744" extended-state="6" />
+    <frame x="53" y="-4" width="1313" height="772" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27071825" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27545384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,6 +345,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/punkty/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/punkty/Punkt2D.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -298,16 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/punkty/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
