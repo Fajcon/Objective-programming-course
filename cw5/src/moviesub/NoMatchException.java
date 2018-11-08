@@ -1,7 +1,12 @@
 package moviesub;
 
 public class NoMatchException extends Exception{
-    private static String message = "Błąd formatu napisów";
+    public NoMatchException(int nrLini, String linia) {
+        super();
+        message = "Line number("+ Integer.toString(nrLini)+")"+ " " + linia;
+    }
+
+    private static String message;
 
     @Override
     public String getMessage() {
