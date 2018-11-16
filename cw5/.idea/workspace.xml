@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45980d4-d5a5-41af-92aa-597aa003a1b7" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/kolokwium.iml" beforeDir="false" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,32 +38,42 @@
     <session id="1959702130">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="2" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="664" />
+          <entry key="java" value="1870" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="664" />
+          <entry key="JAVA" value="1870" />
         </counts>
       </usages-collector>
     </session>
@@ -108,6 +127,7 @@
       <find>fox</find>
       <find>pedestal</find>
       <find>cat</find>
+      <find>wron</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,9 +136,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/moviesub/NoMatchException.java" />
-        <option value="$PROJECT_DIR$/src/moviesub/DelaySub.java" />
+        <option value="$PROJECT_DIR$/src/foto/NoDirException.java" />
+        <option value="$PROJECT_DIR$/src/foto/NotFotoException.java" />
+        <option value="$PROJECT_DIR$/src/foto/DirectorCreationException.java" />
+        <option value="$PROJECT_DIR$/src/foto/WrongAPIKeyException.java" />
         <option value="$PROJECT_DIR$/src/foto/FotoMain.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/WrongFramesException.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/DelaySub.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/NoMatchException.java" />
       </list>
     </option>
   </component>
@@ -146,8 +171,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,6 +204,11 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +217,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540756047508" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541712092960" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -204,10 +241,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FotoMain">
+  <component name="RunManager" selected="Application.DelaySub">
     <configuration name="DelaySub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moviesub.DelaySub" />
       <module name="cw5" />
+      <option name="PROGRAM_PARAMETERS" value="gravity.txt out.txt 1000 24" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="moviesub.*" />
@@ -256,8 +294,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FotoMain" />
         <item itemvalue="Application.DelaySub" />
+        <item itemvalue="Application.FotoMain" />
         <item itemvalue="Cucumber java.All Features in: moviesub" />
       </list>
     </recent_temporary>
@@ -275,9 +313,25 @@
       <workItem from="1540299246646" duration="2000000" />
       <workItem from="1540459131517" duration="3121000" />
       <workItem from="1540745029917" duration="2924000" />
+<<<<<<< HEAD
       <workItem from="1540748161658" duration="8067000" />
       <workItem from="1542363703019" duration="97000" />
       <workItem from="1542363918334" duration="27000" />
+=======
+      <workItem from="1540748161658" duration="7711000" />
+      <workItem from="1540802681267" duration="5409000" />
+      <workItem from="1540895347475" duration="460000" />
+      <workItem from="1540904981209" duration="494000" />
+      <workItem from="1540905776093" duration="1889000" />
+      <workItem from="1540915756963" duration="24000" />
+      <workItem from="1541439117164" duration="190000" />
+      <workItem from="1541496354013" duration="16000" />
+      <workItem from="1541497399481" duration="945000" />
+      <workItem from="1541505092676" duration="871000" />
+      <workItem from="1541511867850" duration="830000" />
+      <workItem from="1541708224755" duration="1870000" />
+      <workItem from="1542114259877" duration="462000" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
     </task>
     <servers />
   </component>
@@ -287,12 +341,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="16236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="473" y="390" width="1289" height="660" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22043443" />
+=======
+    <option name="totallyTimeSpent" value="29216000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="-11" width="1315" height="780" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20757696" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,7 +364,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.32829374" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32763976" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,7 +377,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32829374" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32763976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -318,8 +385,8 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32991317" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3289689" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32833466" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32991317" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,6 +400,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Predicate.class">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
@@ -345,10 +413,64 @@
           <caret line="61" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/ReferencePipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/NotFotoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/DirectorCreationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/NoDirException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/WrongFramesException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -356,13 +478,31 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/WrongAPIKeyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+=======
+        <state relative-caret-position="15">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+>>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
           <folding>
             <element signature="e#174#175#0" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />

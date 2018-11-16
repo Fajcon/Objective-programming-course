@@ -13,14 +13,14 @@ import java.util.*;
 import java.util.stream.Stream;
 
 public class FotoMain {
-    public static void Recognition(String Image, Indico indico, IndicoResult single) throws IOException, IndicoException {
+    public static void Recognition(String Image, Indico indico, IndicoResult single) throws IOException, IndicoException, DirectorCreationException {
         String resultString = null;
         double resultDouble = 0;
         Path pathToDst = null;
         Path pathToSrc = null;
         single = indico.imageRecognition.predict(
-                    Image
-            );
+                Image
+        );
 
         Map<String, Double> result = single.getImageRecognition();
 
@@ -30,35 +30,53 @@ public class FotoMain {
                 resultDouble = entry.getValue();
             }
         }
-        boolean success = (new File("/home/fajcon/java/cw5/zdjecia_posegregowane/"+resultString.replaceAll("\\s+","_"))).mkdirs();
-        if (!success) {
-            // Directory creation failed
+        if (!new File("/home/ficon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_")).exists()) {
+            boolean success = (new File("/home/ficon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_"))).mkdirs();
+            if (!success) {
+                throw new DirectorCreationException();
+            }
         }
         pathToSrc = Paths.get(Image);
-        pathToDst = Paths.get("/home/fajcon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_") + "/" + Image.lastIndexOf("/") + 1);
+        pathToDst = Paths.get("/home/ficon/java/cw5/zdjecia_posegregowane/" + resultString.replaceAll("\\s+", "_") + "/" + Image.substring(Image.lastIndexOf("/") + 1));
 
         Files.copy(pathToSrc, pathToDst, StandardCopyOption.REPLACE_EXISTING);
     }
-    public static void main(String[] argv) throws IndicoException {
+
+    public static void readAndWrite(String pathString) throws NoDirException, IOException, IndicoException {
         // single example
         Indico indico = new Indico("244988bf56524ea8d00258263a1dcb35");
         IndicoResult single = null;
 
-        try (Stream<Path> paths = Files.walk(Paths.get(argv[0]))) {
-                paths
-                    .filter((p) -> (p.toString().endsWith(".jpg")))
-                    .forEach((p)-> {
-                        try {
-                            Recognition(p.toString(), indico, single);
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        } catch (IndicoException e) {
-                            e.printStackTrace();
-                        }
-                    });
+        File testDir = new File(pathString);
+        if (!testDir.isDirectory()) throw new NoDirException();
+
+        Stream<Path> paths = Files.walk(Paths.get(pathString));
+        paths
+                .filter((p) -> (p.toString().endsWith(".jpg")))
+                .forEach((p) -> {
+                    try {
+                        Recognition(p.toString(), indico, single);
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    } catch (IndicoException e) {
+                        e.printStackTrace();
+//                        throw new WrongAPIKeyException();
+                    } catch (DirectorCreationException e) {
+                        System.out.println(e.getMessage());
+                    }
+                });
+    }
+
+    public static void main(String[] argv) {
+
+        try {
+            readAndWrite(argv[0]);
+        } catch (IndicoException e) {
+            e.printStackTrace();
+        } catch (NoDirException e) {
+            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 }

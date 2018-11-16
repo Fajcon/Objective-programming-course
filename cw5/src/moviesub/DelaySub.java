@@ -14,13 +14,13 @@ public class DelaySub {
 
         try {
             delay(argv[0], argv[1], Integer.parseInt(argv[2]), Integer.parseInt(argv[3]));
-        }catch (NoMatchException e){
-            System.out.println(e.getMessage());
+        }catch (NoMatchException | WrongFramesException e){
+            e.printStackTrace();
         }
         //delay("gravity.txt","out.txt", 10, 24);
     }
 
-    static void delay(final String in, final String out, int delay, int fps) throws NoMatchException {
+    static void delay(final String in, final String out, int delay, int fps) throws NoMatchException, WrongFramesException {
         Pattern compiledPattern = Pattern.compile("\\{(\\d+)\\}\\{(\\d+)\\}(.+)");
         File inFile = new File(in);
         Scanner sc = null;
@@ -37,18 +37,20 @@ public class DelaySub {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
+        int nrLini = 0;
         while (sc.hasNextLine()) {
+            nrLini++;
             String line = sc.nextLine();
             Matcher matcher = compiledPattern.matcher(line);
             if (matcher.find()) {
-                int start = Integer.parseInt(matcher.group(1)) + (delay * 1000) / fps;
-                int end = Integer.parseInt(matcher.group(2)) + (delay * 1000) / fps;
+                int start = Integer.parseInt(matcher.group(1)) + (delay / 1000) * fps;
+                int end = Integer.parseInt(matcher.group(2)) + (delay / 1000) * fps;
+                if(end < start) throw new WrongFramesException(nrLini, line);
 
                 StringBuilder result = new StringBuilder();
                 result.append("{").append(start).append("}{").append(end).append("}").append(matcher.group(3));
                 outPrinter.println(result.toString());
-            }else throw new NoMatchException();
+            }else throw new NoMatchException(nrLini, line);
 
         }
 

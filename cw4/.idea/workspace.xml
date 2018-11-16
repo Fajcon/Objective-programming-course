@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0efa9911-3b29-4435-ac03-e72410a46a70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cw5/src/moviesub/NoMatchException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_1/cw3_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/cw3_5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/EmailMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_5/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw3_zad5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw3_zad5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleExample/.idea/libraries/com_miglayout_miglayout_3_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/testGui.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/testGui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw5/src/moviesub/DelaySub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/moviesub/DelaySub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/kolokwium.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,32 +25,36 @@
     <session id="-2138751662">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2029" />
+          <entry key="java" value="2031" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2029" />
+          <entry key="JAVA" value="2031" />
         </counts>
       </usages-collector>
     </session>
@@ -67,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/crypto/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="765">
+              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/crypto/Cryptographer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,30 +86,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crypto/Polibiusz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/crypto/Algorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/crypto/ROT11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crypto/Polibiusz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -136,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/crytpo/Polibiusz.java" />
         <option value="$PROJECT_DIR$/src/crytpo/program.java" />
         <option value="$PROJECT_DIR$/src/crytpo/Program.java" />
+        <option value="$PROJECT_DIR$/src/crypto/Algorithm.java" />
       </list>
     </option>
   </component>
@@ -152,10 +146,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="-4" />
-    <option name="width" value="1291" />
-    <option name="height" value="696" />
+    <option name="x" value="213" />
+    <option name="y" value="201" />
+    <option name="width" value="1289" />
+    <option name="height" value="660" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,14 +179,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540462117951" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540918952677" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -213,6 +207,7 @@
     <configuration name="Program" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="crypto.Program" />
       <module name="cw4" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/testin.txt $PROJECT_DIR$/testout.txt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="crypto.*" />
@@ -245,17 +240,23 @@
       <workItem from="1540301267379" duration="650000" />
       <workItem from="1540458936101" duration="193000" />
       <workItem from="1540460791962" duration="661000" />
+      <workItem from="1540802682487" duration="939000" />
+      <workItem from="1540895345219" duration="13000" />
+      <workItem from="1540915792253" duration="3721000" />
+      <workItem from="1541067871927" duration="107000" />
+      <workItem from="1541497254623" duration="142000" />
+      <workItem from="1541505107054" duration="1757000" />
+      <workItem from="1542116631667" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15572000" />
+    <option name="totallyTimeSpent" value="22264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27071825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3038674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,7 +265,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -292,41 +293,37 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crypto/Polibiusz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/crypto/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="765">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypto/Polibiusz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/crypto/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/crypto/ROT11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/crypto/Cryptographer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
