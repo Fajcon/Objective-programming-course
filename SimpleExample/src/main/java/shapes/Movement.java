@@ -53,8 +53,10 @@ public class Movement implements MouseMotionListener, MouseListener {
     @Override
     public void mouseDragged(MouseEvent e) {
         if(captured!=null){
-            captured.setPositionX(e.getX());
-            captured.setPostionY(e.getY());
+            captured.setPositionX(captured.getPositionX()+e.getX()-X);
+            captured.setPositionY(captured.getPositionY()+e.getY()-Y);
+            X = e.getX();
+            Y = e.getY();
             panel.repaint();
         }
 

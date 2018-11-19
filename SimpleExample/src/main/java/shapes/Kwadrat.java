@@ -9,14 +9,14 @@ public class Kwadrat extends Shape{
         name = _name;
         a = _a;
         positionX = _postionX;
-        postionY = _positionY;
+        positionY = _positionY;
     }
 
     public void draw(Graphics graphics){
         graphics.setColor(Color.RED);
-        graphics.fillRect(positionX,postionY,a,a);
+        graphics.fillRect(positionX,positionY,a,a);
     }
     public boolean pressed(int mousePositionX, int mousePositionY){
-        return (mousePositionX >= positionX && mousePositionX <= positionX+a && mousePositionY >= postionY && mousePositionY <= postionY + a);
+        return (mousePositionX >= positionX && mousePositionX <= positionX+a && mousePositionY >= positionY && mousePositionY <= positionY + a);
     }
 }

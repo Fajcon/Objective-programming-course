@@ -2,21 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1268383-4f4b-4396-b55f-42107a5d7d87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/.idea/libraries/com_miglayout_miglayout_3_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/QuitButtonEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/SimpleEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/testGui.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/testGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Drawer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/DrawerProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Kwadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Prostokąt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Trójkąt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleExample/.idea/SimpleExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw7/SimpleExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw7/SimpleExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw7/SimpleExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/.idea/libraries/com_miglayout_miglayout_3_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/.idea/libraries/com_miglayout_miglayout_3_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/QuitButtonEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/SimpleEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/testGui.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/com/zetcode/testGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Drawer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/DrawerProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/src/main/java/shapes/Kwadrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/src/main/java/shapes/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Movement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/src/main/java/shapes/Movement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/src/main/java/shapes/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Prostokąt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/src/main/java/shapes/Prostokąt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/src/main/java/shapes/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleExample/src/main/java/shapes/Trójkąt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/SimpleExample/src/main/java/shapes/Trójkąt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guiExample/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/uiDesigner.xml" beforeDir="false" />
@@ -35,15 +51,17 @@
     <session id="-1942238158">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -149,10 +167,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="213" />
-    <option name="y" value="201" />
-    <option name="width" value="1289" />
-    <option name="height" value="660" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,8 +200,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,16 +281,19 @@
       <workItem from="1542116646126" duration="1214000" />
       <workItem from="1542121072526" duration="326000" />
       <workItem from="1542127041014" duration="599000" />
+      <workItem from="1542461624139" duration="712000" />
+      <workItem from="1542533564140" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14866000" />
+    <option name="totallyTimeSpent" value="16182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28018942" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2896606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

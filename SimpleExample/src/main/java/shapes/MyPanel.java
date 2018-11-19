@@ -11,7 +11,8 @@ public class MyPanel extends JPanel {
     }
 
     public void paint(Graphics g) {
-        g.setColor(new Color(0, 0, 0));
+        g.setColor(Color.WHITE);
+        g.fillRect(0,0,this.getWidth(),this.getHeight());
         for(Shape s: shapesList) {
             s.draw(g);
         }

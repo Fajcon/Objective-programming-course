@@ -9,12 +9,20 @@ public abstract class Shape {
         this.positionX = positionX;
     }
 
-    public void setPostionY(int postionY) {
-        this.postionY = postionY;
+    public void setPositionY(int postionY) {
+        this.positionY = postionY;
+    }
+
+    public int getPositionX() {
+        return positionX;
+    }
+
+    public int getPositionY() {
+        return positionY;
     }
 
     protected int positionX;
-    protected int postionY;
+    protected int positionY;
     public abstract void draw(Graphics graphics);
     public abstract boolean pressed(int mousePositionX, int mousePositionY);
 }
