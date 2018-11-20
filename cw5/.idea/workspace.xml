@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45980d4-d5a5-41af-92aa-597aa003a1b7" name="Default Changelist" comment="">
-<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolokwium/kolokwium.iml" beforeDir="false" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw6/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,24 +75,27 @@
     <session id="-795013849">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="1" />
+          <entry key="java" value="3" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -113,7 +111,20 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/foto/FotoMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="52" column="63" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -159,11 +170,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
-    <option name="y" value="390" />
-    <option name="width" value="1289" />
-    <option name="height" value="660" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="2" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,17 +182,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-=======
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="cw5" type="b2602c69:ProjectViewProjectNode" />
               <item name="cw5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cw5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cw5" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cw5" type="b2602c69:ProjectViewProjectNode" />
@@ -204,11 +216,7 @@
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
       <pane id="PackagesPane" />
-      <pane id="Scope" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,12 +225,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540756047508" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541712092960" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542732527354" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../People" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -241,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DelaySub">
+  <component name="RunManager" selected="Application.FotoMain">
     <configuration name="DelaySub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moviesub.DelaySub" />
       <module name="cw5" />
@@ -294,8 +298,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DelaySub" />
         <item itemvalue="Application.FotoMain" />
+        <item itemvalue="Application.DelaySub" />
         <item itemvalue="Cucumber java.All Features in: moviesub" />
       </list>
     </recent_temporary>
@@ -313,11 +317,9 @@
       <workItem from="1540299246646" duration="2000000" />
       <workItem from="1540459131517" duration="3121000" />
       <workItem from="1540745029917" duration="2924000" />
-<<<<<<< HEAD
       <workItem from="1540748161658" duration="8067000" />
       <workItem from="1542363703019" duration="97000" />
       <workItem from="1542363918334" duration="27000" />
-=======
       <workItem from="1540748161658" duration="7711000" />
       <workItem from="1540802681267" duration="5409000" />
       <workItem from="1540895347475" duration="460000" />
@@ -331,7 +333,7 @@
       <workItem from="1541511867850" duration="830000" />
       <workItem from="1541708224755" duration="1870000" />
       <workItem from="1542114259877" duration="462000" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
+      <workItem from="1542732010831" duration="597000" />
     </task>
     <servers />
   </component>
@@ -341,21 +343,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="16236000" />
+    <option name="totallyTimeSpent" value="16873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="473" y="390" width="1289" height="660" extended-state="0" />
+    <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22043443" />
-=======
-    <option name="totallyTimeSpent" value="29216000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="52" y="-11" width="1315" height="780" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20757696" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21032505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -364,11 +357,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32829374" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32763976" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11771058" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +366,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32763976" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,20 +389,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Predicate.class">
-<<<<<<< HEAD
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/foto/FotoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
@@ -441,48 +416,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/foto/NoDirException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/moviesub/WrongFramesException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
-          </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
           <caret line="38" column="9" selection-start-line="33" selection-start-column="7" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-    <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -490,22 +434,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
->>>>>>> 1e63a74d780dab0728fbbd5e59e506c4e9eae483
+          <caret line="449" column="10" selection-start-line="449" selection-start-column="10" selection-end-line="449" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/NoDirException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/FotoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="52" column="63" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="63" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
