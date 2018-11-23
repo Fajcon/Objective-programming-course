@@ -32,7 +32,7 @@
             <Button layoutX="451.0" layoutY="14.0" mnemonicParsing="false" onAction="#draw" text="Draw" />
             <TextField fx:id="rangeStartTextField" layoutX="14.0" layoutY="130.0" prefHeight="26.0" prefWidth="99.0" />
             <TextField fx:id="rangeEndTextField" layoutX="14.0" layoutY="190.0" prefHeight="26.0" prefWidth="99.0" />
-            <TextField layoutX="256.0" layoutY="14.0" />
+            <TextField fx:id="wzor" layoutX="256.0" layoutY="14.0" />
             <Label layoutX="197.0" layoutY="19.0" text="Funkcja: " />
             <Label layoutX="14.0" layoutY="106.0" text="Range Start:" />
             <Label layoutX="14.0" layoutY="167.0" text="Range End:" />
