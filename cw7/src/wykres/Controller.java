@@ -13,7 +13,7 @@ import java.util.ResourceBundle;
 
 public class Controller implements Initializable {
 
-    @FXML private CategoryAxis xAxis;
+    @FXML private NumberAxis xAxis;
     @FXML private NumberAxis yAxis;
     @FXML private LineChart<?,?> LineChart;
     XYChart.Series series= new XYChart.Series();
@@ -22,19 +22,20 @@ public class Controller implements Initializable {
     private int rangeStart ;
     private int rangeEnd;
     @FXML private TextField wzor;
+    @FXML private TextField czestoliwosc;
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
-            LineChart.getData().removeAll(series);
-            LineChart.getData().addAll(series);
+        LineChart.getData().addAll(series);
     }
 
     @FXML public void draw(){
+        series.getData().clear();
         Wielomian wielomian = new Wielomian(wzor.getText());
         rangeStart = Integer.parseInt(rangeStartTextField.getText());
         rangeEnd = Integer.parseInt(rangeEndTextField.getText());
-        for (int i = rangeStart; i <= rangeEnd; i++) {
-            series.getData().add(new XYChart.Data(Integer.toString(i), wielomian.getResult(i)));
+        for (double i = rangeStart; i <= rangeEnd; i+=Double.parseDouble(czestoliwosc.getText())) {
+            series.getData().add(new XYChart.Data(i, wielomian.getResult(i)));
         }
     }
     int funkcjaKwadratowa(int x){

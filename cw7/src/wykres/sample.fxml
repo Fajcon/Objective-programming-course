@@ -23,7 +23,7 @@
          <children>
             <LineChart fx:id="LineChart" layoutX="143.0" layoutY="44.0" prefHeight="542.0" prefWidth="643.0">
               <xAxis>
-                <CategoryAxis side="BOTTOM" fx:id="xAxis" />
+                <NumberAxis side="BOTTOM" fx:id="xAxis" />
               </xAxis>
               <yAxis>
                 <NumberAxis fx:id="yAxis" side="LEFT" />
@@ -36,6 +36,8 @@
             <Label layoutX="197.0" layoutY="19.0" text="Funkcja: " />
             <Label layoutX="14.0" layoutY="106.0" text="Range Start:" />
             <Label layoutX="14.0" layoutY="167.0" text="Range End:" />
+            <Label layoutX="14.0" layoutY="235.0" text="Sampling frequency:" />
+            <TextField fx:id="czestoliwosc" layoutX="14.0" layoutY="267.0" prefHeight="26.0" prefWidth="99.0" />
          </children>
       </Pane>
    </children>

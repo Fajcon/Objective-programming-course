@@ -18,7 +18,7 @@ public class Wielomian {
         else _wzor = wzor;
 
     }
-    public double getResult(int x) {
+    public double getResult(Double x) {
         Matcher matcher = _pattern.matcher(_wzor);
         result = 0;
         while (matcher.find()) {
