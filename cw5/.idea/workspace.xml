@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45980d4-d5a5-41af-92aa-597aa003a1b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cw7/src/photo/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw7/src/photo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw7/src/photo/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../People/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../People/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/src/wykres/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Wielomian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/src/wykres/Wielomian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/src/wykres/sample.fxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +83,8 @@
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -170,10 +171,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="2" />
-    <option name="width" value="1612" />
-    <option name="height" value="876" />
+    <option name="x" value="970" />
+    <option name="y" value="24" />
+    <option name="width" value="710" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,6 +183,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,7 +217,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,6 +336,7 @@
       <workItem from="1542732010831" duration="597000" />
       <workItem from="1542967920087" duration="744000" />
       <workItem from="1542980562292" duration="600000" />
+      <workItem from="1543055206167" duration="599000" />
     </task>
     <servers />
   </component>
@@ -344,13 +346,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18217000" />
+    <option name="totallyTimeSpent" value="18816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21542384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21797323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
