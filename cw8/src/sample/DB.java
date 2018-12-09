@@ -10,25 +10,35 @@ public class DB{
     private Statement stmt = null;
     private ResultSet rs = null;
 
-    public void connect(){
-        try {
-            conn =
-                    DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/ficon",
-                            "ficon","TBzLE3fcvoSVU1NG");
+    public void connect() {
+        int tests = 0;
+        while (tests < 3) {
+            //System.out.println("Connecting test "+ (tests+1));
+            try {
+                conn =
+                        DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/ficon",
+                                "ficon", "TBzLE3fcvoSVU1NG");
+                System.out.println("Sukces");
+                tests = 3;
 
-
-        } catch (SQLException ex) {
-            // handle any errors
-            System.out.println("SQLException: " + ex.getMessage());
-            System.out.println("SQLState: " + ex.getSQLState());
-            System.out.println("VendorError: " + ex.getErrorCode());
-        }catch(Exception e){e.printStackTrace();}
+            } catch (SQLException ex) {
+                tests++;
+                // handle any errors
+                if(tests == 3) {
+                    System.out.println("SQLException: " + ex.getMessage());
+                    System.out.println("SQLState: " + ex.getSQLState());
+                    System.out.println("VendorError: " + ex.getErrorCode());
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
     }
 
     public ArrayList getData(){
         try {
-            ArrayList<Book> listData = new ArrayList();
             connect();
+            ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books");
             while(rs.next()){
@@ -59,8 +69,8 @@ public class DB{
 
     public ArrayList getDataByIsbn(String isbn){
         try {
-            ArrayList<Book> listData = new ArrayList();
             connect();
+            ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books WHERE isbn = " +isbn+ ";");
             while(rs.next()){
@@ -91,8 +101,8 @@ public class DB{
 
     public ArrayList getDataByAuthor(String author){
         try {
-            ArrayList<Book> listData = new ArrayList();
             connect();
+            ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books WHERE author like '" +author+ "';");
             while(rs.next()){
@@ -123,8 +133,8 @@ public class DB{
 
     public ArrayList getDataBylastName(String lastName){
         try {
-            ArrayList<Book> listData = new ArrayList();
             connect();
+            ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books WHERE author like '% " +lastName+ "';");
             while(rs.next()){
@@ -153,6 +163,7 @@ public class DB{
 
     public void addBook(Book book){
         try {
+            connect();
             String newValue = ("'"+book.getIsbn()+"'"+",'"+book.getTitle()+"','"+book.getAuthor()+"',"+book.getYear());
             stmt = conn.createStatement();
             stmt.executeUpdate("INSERT INTO books VALUES("+ newValue+");");
