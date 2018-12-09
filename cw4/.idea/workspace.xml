@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b45980d4-d5a5-41af-92aa-597aa003a1b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/.idea/libraries/io_indico_io_indico_3_16_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/io_indico_io_indico_3_16_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/cw5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cw5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/gravity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cw5/gravity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/out/production/cw5/gravity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gravity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/out/production/cw5/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cw5/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/DirectorCreationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foto/DirectorCreationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/FotoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foto/FotoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/NoDirException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foto/NoDirException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/NotFotoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foto/NotFotoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/WrongAPIKeyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foto/WrongAPIKeyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/moviesub/DelaySub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviesub/DelaySub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/moviesub/NoMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviesub/NoMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/moviesub/WrongFramesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviesub/WrongFramesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Egyptian_cat/kkott.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kkott.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Egyptian_cat/kottt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kottt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/EntleBucher/pies2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/bald_eagle,_American_eagle,_Haliaeetus_leucocephalus/orzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/orzel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/black_stork,_Ciconia_nigra/bocian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/bocian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/cassette_player/teesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/teesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/curly-coated_retriever/kon2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kon2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/golden_retriever/pies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/golden_retriever/pies3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/indri,_indris,_Indri_indri,_Indri_brevicaudatus/rosomak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/rosomak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/oil_filter/shadow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/shadow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/pug,_pug-dog/pies4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/schipperke/kot2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kot2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/waffle_iron/tesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/tesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/InadequateFoodException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/InadequateFoodException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Mammoth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/Mammoth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/test/java/ATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/test/java/ATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/test/java/MammothTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/test/java/MammothTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/artifacts/JavaFXApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/bocian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/bocian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/cw7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/cw7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/bocian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/black_stork,_Ciconia_nigra/bocian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kkott.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/Egyptian_cat/kkott.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kon2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/curly-coated_retriever/kon2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kot2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/schipperke/kot2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kottt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/Egyptian_cat/kottt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/orzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/bald_eagle,_American_eagle,_Haliaeetus_leucocephalus/orzel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/golden_retriever/pies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/EntleBucher/pies2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/golden_retriever/pies3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/pug,_pug-dog/pies4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/rosomak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/indri,_indris,_Indri_indri,_Indri_brevicaudatus/rosomak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/shadow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/oil_filter/shadow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/teesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/cassette_player/teesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/tesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/zdjecia_posegregowane/waffle_iron/tesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/out/production/cw7/photo/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/photo/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/out/production/cw7/wykres/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/Histogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/HistogramValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/HistogramValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/NumberTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/NumberTextField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/RectangleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/RectangleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/photo/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/photo/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/photo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/photo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/photo/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/out/production/cw7/photo/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Wielomian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Wielomian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/out/production/cw7/wykres/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/artifacts/JavaFXApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/libraries/mysql_mysql_connector_java_8_0_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/libraries/mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/cw8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/cw8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/out/production/cw8/sample/AddBook.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/AddBook.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/out/production/cw8/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/AddBook.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/out/production/cw8/sample/AddBook.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/AddBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/AddBookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/out/production/cw8/sample/sample.fxml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1959702130">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1870" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1870" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-795013849">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="4" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="831" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="831" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1453074491">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="354" column="14" selection-start-line="354" selection-start-column="7" selection-end-line="354" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fox</find>
+      <find>pedestal</find>
+      <find>cat</find>
+      <find>wron</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/foto/NoDirException.java" />
+        <option value="$PROJECT_DIR$/src/foto/NotFotoException.java" />
+        <option value="$PROJECT_DIR$/src/foto/DirectorCreationException.java" />
+        <option value="$PROJECT_DIR$/src/foto/WrongAPIKeyException.java" />
+        <option value="$PROJECT_DIR$/src/foto/FotoMain.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/WrongFramesException.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/DelaySub.java" />
+        <option value="$PROJECT_DIR$/src/moviesub/NoMatchException.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="872" />
+    <option name="y" value="24" />
+    <option name="width" value="808" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cw4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cw4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cw4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cw4" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542732527354" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FotoMain">
+    <configuration name="DelaySub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moviesub.DelaySub" />
+      <module name="cw5" />
+      <option name="PROGRAM_PARAMETERS" value="gravity.txt out.txt 1000 24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moviesub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FotoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="foto.FotoMain" />
+      <module name="cw5" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/foto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="foto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: moviesub" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/moviesub" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cw5" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: moviesub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DelaySub" />
+      <item itemvalue="Application.FotoMain" />
+      <item itemvalue="Cucumber java.All Features in: moviesub" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FotoMain" />
+        <item itemvalue="Application.DelaySub" />
+        <item itemvalue="Cucumber java.All Features in: moviesub" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45980d4-d5a5-41af-92aa-597aa003a1b7" name="Default Changelist" comment="" />
+      <created>1540299241207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540299241207</updated>
+      <workItem from="1540299246646" duration="2000000" />
+      <workItem from="1540459131517" duration="3121000" />
+      <workItem from="1540745029917" duration="2924000" />
+      <workItem from="1540748161658" duration="8067000" />
+      <workItem from="1542363703019" duration="97000" />
+      <workItem from="1542363918334" duration="27000" />
+      <workItem from="1540748161658" duration="7711000" />
+      <workItem from="1540802681267" duration="5409000" />
+      <workItem from="1540895347475" duration="460000" />
+      <workItem from="1540904981209" duration="494000" />
+      <workItem from="1540905776093" duration="1889000" />
+      <workItem from="1540915756963" duration="24000" />
+      <workItem from="1541439117164" duration="190000" />
+      <workItem from="1541496354013" duration="16000" />
+      <workItem from="1541497399481" duration="945000" />
+      <workItem from="1541505092676" duration="871000" />
+      <workItem from="1541511867850" duration="830000" />
+      <workItem from="1541708224755" duration="1870000" />
+      <workItem from="1542114259877" duration="462000" />
+      <workItem from="1542732010831" duration="597000" />
+      <workItem from="1542967920087" duration="744000" />
+      <workItem from="1542980562292" duration="600000" />
+      <workItem from="1543055206167" duration="599000" />
+      <workItem from="1544386164981" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__moviesub - 2018.10.23 at 14h 55m 22s.xml">
+      <configuration name="All Features in: moviesub" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18980000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="872" y="24" width="808" height="1026" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4553806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11771058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32833466" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32991317" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4553806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11771058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32833466" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32991317" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cw5.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Predicate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/ReferencePipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/NotFotoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/DirectorCreationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/WrongFramesException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/WrongAPIKeyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/NoMatchException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/NoDirException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foto/FotoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="52" column="63" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moviesub/DelaySub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="354" column="14" selection-start-line="354" selection-start-column="7" selection-end-line="354" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cw5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>io.indico:io.indico:3.16.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30804598" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

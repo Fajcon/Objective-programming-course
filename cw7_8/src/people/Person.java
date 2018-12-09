@@ -1,4 +1,4 @@
-package sample;
+package people;
 
 public class Person {
     public Person(String fullName, String phone, String pesel) {

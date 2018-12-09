@@ -2,26 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1268383-4f4b-4396-b55f-42107a5d7d87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cw4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/cw4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/out/production/cw4/crypto/filein.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/out/production/cw4/filein.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/out/production/cw4/fileout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crypto/Algorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crypto/Cryptographer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crypto/Polibiusz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crypto/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/src/crypto/ROT11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/testin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw4/testout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/.idea/libraries/io_indico_io_indico_3_16_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/libraries/io_indico_io_indico_3_16_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/cw5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/cw5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/gravity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/out/production/cw5/gravity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/out/production/cw5/gravity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/gravity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/out/production/cw5/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/out/production/cw5/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/DirectorCreationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/foto/DirectorCreationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/FotoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/foto/FotoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/NoDirException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/foto/NoDirException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/NotFotoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/foto/NotFotoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/foto/WrongAPIKeyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/foto/WrongAPIKeyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/moviesub/DelaySub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/moviesub/DelaySub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/moviesub/NoMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/moviesub/NoMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/moviesub/WrongFramesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/src/moviesub/WrongFramesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Egyptian_cat/kkott.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kkott.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/Egyptian_cat/kottt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kottt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/EntleBucher/pies2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/bald_eagle,_American_eagle,_Haliaeetus_leucocephalus/orzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/orzel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/black_stork,_Ciconia_nigra/bocian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/bocian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/cassette_player/teesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/teesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/curly-coated_retriever/kon2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kon2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/golden_retriever/pies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/golden_retriever/pies3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/indri,_indris,_Indri_indri,_Indri_brevicaudatus/rosomak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/rosomak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/oil_filter/shadow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/shadow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/pug,_pug-dog/pies4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/pies4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/schipperke/kot2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/kot2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/zdjecia_posegregowane/waffle_iron/tesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/foto/tesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/InadequateFoodException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/InadequateFoodException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Mammoth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/Mammoth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/main/java/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/main/java/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/test/java/ATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/test/java/ATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw6/src/test/java/MammothTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/test/java/MammothTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/artifacts/JavaFXApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/bocian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/bocian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/cw7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/cw7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/bocian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/black_stork,_Ciconia_nigra/bocian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kkott.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/Egyptian_cat/kkott.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kon2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/curly-coated_retriever/kon2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/Arctic_fox,_white_fox,_Alopex_lagopus/kot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kot2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/schipperke/kot2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/kottt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/Egyptian_cat/kottt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/orzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/bald_eagle,_American_eagle,_Haliaeetus_leucocephalus/orzel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/golden_retriever/pies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/EntleBucher/pies2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/golden_retriever/pies3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/pies4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/pug,_pug-dog/pies4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/rosomak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/indri,_indris,_Indri_indri,_Indri_brevicaudatus/rosomak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/shadow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/oil_filter/shadow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/teesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/cassette_player/teesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/foto/tesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/zdjecia_posegregowane/waffle_iron/tesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/out/production/cw7/photo/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/photo/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/out/production/cw7/wykres/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/Histogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/HistogramValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/HistogramValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/NumberTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/NumberTextField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/histogram/RectangleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/histogram/RectangleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/photo/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/photo/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/photo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/photo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/photo/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/out/production/cw7/photo/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/Wielomian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Wielomian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7/src/wykres/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/out/production/cw7/wykres/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/artifacts/JavaFXApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/libraries/mysql_mysql_connector_java_8_0_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/libraries/mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/cw8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/cw8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/out/production/cw8/sample/AddBook.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/AddBook.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/out/production/cw8/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/AddBook.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/out/production/cw8/sample/AddBook.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/AddBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/AddBookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw8/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/out/production/cw8/sample/sample.fxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,6 +165,7 @@
     <session id="-1256560987">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -235,9 +330,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544385716136" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544386053712" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw7_8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -333,12 +428,12 @@
       <workItem from="1542127041014" duration="599000" />
       <workItem from="1542461624139" duration="712000" />
       <workItem from="1542533564140" duration="604000" />
-      <workItem from="1544385344275" duration="313000" />
+      <workItem from="1544385344275" duration="762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16495000" />
+    <option name="totallyTimeSpent" value="16944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1617" height="1062" extended-state="6" />
@@ -352,7 +447,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32829374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

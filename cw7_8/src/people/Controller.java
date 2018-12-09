@@ -1,4 +1,4 @@
-package sample;
+package people;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.*;

@@ -1,4 +1,4 @@
-package sample;
+package people;
 
 import java.util.ArrayList;
 
