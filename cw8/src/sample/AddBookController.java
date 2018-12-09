@@ -28,7 +28,6 @@ public class AddBookController implements Initializable {
 
     @FXML
     private void addBook(){
-        dataBase.connect();
         dataBase.addBook(new Book(isbn.getText(), author.getText(), title.getText(), Integer.parseInt(year.getText())));
         System.out.println(new Book(isbn.getText(), author.getText(), title.getText(), Integer.parseInt(year.getText())).getAll());
     }
