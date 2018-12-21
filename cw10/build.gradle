@@ -2,7 +2,23 @@ plugins {
     id 'java'
 }
 
-group ' cw10'
+plugins {
+    id 'java'
+}
+
+group 'cw10'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+group 'cw10'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
