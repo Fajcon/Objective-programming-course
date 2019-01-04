@@ -19,7 +19,6 @@ public class DiningPhilosophers {
                 e.printStackTrace(System.out);
             }
         }
-
         void release() {
             mutex.release();
         }
