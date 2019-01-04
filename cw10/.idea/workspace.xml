@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ca1bd8a-3389-4be4-8be0-9379e80b5932" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../cw1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cw12/src/gui/testServera/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw12.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw12/serializedMem.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw12/src/gui/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/src/gui/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw12/src/gui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/src/gui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw12/src/gui/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/src/gui/Server.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -53,10 +57,11 @@
     <session id="1555238515">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -75,13 +80,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DiningPhilosophers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="15">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#588#589#0" expanded="true" />
                 <element signature="e#627#628#0" expanded="true" />
                 <element signature="e#655#656#0" expanded="true" />
@@ -94,13 +98,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="540">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -511,6 +515,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -551,14 +556,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545393505715" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw11" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546514022730" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -605,16 +609,18 @@
       <workItem from="1545391689400" duration="983000" />
       <workItem from="1545568393125" duration="155000" />
       <workItem from="1545568588650" duration="19000" />
+      <workItem from="1546510148193" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1176000" />
+    <option name="totallyTimeSpent" value="2614000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
+    <frame x="53" y="24" width="1313" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26124704" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26598263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -653,24 +659,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/DiningPhilosophers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="540">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -678,6 +670,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiningPhilosophers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

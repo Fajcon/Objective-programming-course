@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../cw12/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw12/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cw12/src/gui/Mem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wodociagi/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wodociagi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wodociagi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wodociagi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/modules/cw12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/modules/cw12_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/modules/cw12_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw12/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cw7_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw12/serializedMem.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cw12/serializedMem.bin" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,9 +72,10 @@
     <session id="1051140553">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -129,7 +106,7 @@
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -186,6 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,23 +172,10 @@
               <item name="cw12.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="cw12.2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cw12.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cw12.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cw12.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cw12.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,6 +193,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546021385778" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw11" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -332,24 +299,23 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1546016644132" duration="4742000" />
+      <workItem from="1546509806147" duration="218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6044000" />
+    <option name="totallyTimeSpent" value="6262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.25414366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.25809" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
@@ -364,6 +330,8 @@
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32919255" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="15" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -391,52 +359,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/serializedMem.bin">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/Mem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/sample.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/serializedMem.bin" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Mem.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Controller.java" />
   </component>
   <component name="masterDetails">
     <states>

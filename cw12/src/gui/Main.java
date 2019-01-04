@@ -11,6 +11,7 @@ import javafx.stage.Stage;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.util.Scanner;
 
 public class Main extends Application {
 
@@ -23,7 +24,5 @@ public class Main extends Application {
     }
 
 
-    public static void main(String[] args) {
-        launch(args);
-    }
+    public static void main(String[] args) { launch(args);}
 }
