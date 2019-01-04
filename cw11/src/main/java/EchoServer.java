@@ -15,7 +15,7 @@ public class EchoServer extends Thread {
         try {
             clientSocket = serverSocket.accept();
         } catch (IOException e) {
-            System.out.println("Accept failed: 6666");
+            System.out.println("Accept failed: 6666 ");
             System.exit(-1);
         }
         PrintWriter out = null;
