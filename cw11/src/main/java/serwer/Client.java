@@ -31,7 +31,6 @@ public class Client {
         BufferedReader stdIn = new BufferedReader(new InputStreamReader(System.in));
         boolean exit = false;
         while (!exit) {
-            System.out.print("$");
             String in = null;
             try {
                 in = stdIn.readLine();
@@ -40,16 +39,12 @@ public class Client {
             }
             if (in.equals("exit")) exit=true;
             else if (in.startsWith("LOGIN")){
-                String[] arg = in.split(" ");
-                if (arg.length<3) System.out.println("Usage: LOGIN [username] [password]");
-                else {
-                    String result = run(arg[0] + " " + arg[1] + ";" + arg[1].concat(arg[2]).hashCode());
-                    if (result.equals("false")) {
-                        System.out.println("Login failed");
-                    } else {
-                        ID = result;
-                        System.out.println("Login successful");
-                    }
+                String result = run(in);
+                if (result.equals("false")) {
+                    System.out.println("Login failed");
+                } else {
+                    ID = result;
+                    System.out.println("Login successful");
                 }
             }
             else if (in.startsWith("LOGOUT")){
