@@ -15,7 +15,6 @@ public class HeapTest {
 
         assertEquals("size should be 1",1,heap.size());
         assertEquals(0,heap.top());
-        assertEquals(1,heap.size());
     }
 
     @Test

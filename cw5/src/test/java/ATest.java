@@ -7,7 +7,7 @@ public class ATest {
     @Test
     public void metPierwszy() {
         A a = new A();
-        Assert.assertEquals(a.met(1), "pierwszy" );
+        Assert.assertEquals( "pierwszy", a.met(1) );
     }
     @Test
     public void metDrugi() {

@@ -13,7 +13,6 @@ public class DB{
     public void connect() {
         int tests = 0;
         while (tests < 3) {
-            //System.out.println("Connecting test "+ (tests+1));
             try {
                 conn =
                         DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/ficon",
@@ -37,14 +36,12 @@ public class DB{
 
     public ArrayList getData(){
         try {
-            connect();
             ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books");
             while(rs.next()){
                 listData.add(new Book(rs.getString(1),rs.getString(2),rs.getString(3),rs.getInt(4)));
             }
-
             return listData;
 
         }catch (SQLException ex){
@@ -69,7 +66,6 @@ public class DB{
 
     public ArrayList getDataByIsbn(String isbn){
         try {
-            connect();
             ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books WHERE isbn = " +isbn+ ";");
@@ -101,7 +97,6 @@ public class DB{
 
     public ArrayList getDataByAuthor(String author){
         try {
-            connect();
             ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books WHERE author like '" +author+ "';");
@@ -133,7 +128,6 @@ public class DB{
 
     public ArrayList getDataBylastName(String lastName){
         try {
-            connect();
             ArrayList<Book> listData = new ArrayList();
             stmt = conn.createStatement();
             rs = stmt.executeQuery("SELECT * FROM books WHERE author like '% " +lastName+ "';");
@@ -149,8 +143,7 @@ public class DB{
                 try {
                     rs.close();
                 } catch (SQLException sqlEx) { } // ignore
-                rs = null;
-            }
+                rs = null;            }
             if (stmt != null) {
                 try {
                     stmt.close();

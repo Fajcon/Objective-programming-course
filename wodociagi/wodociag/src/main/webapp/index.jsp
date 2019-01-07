@@ -11,6 +11,8 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+    <form action="addNode" method="POST">
+      <input type="submit" value="addNode" />
+    </form>
   </body>
 </html>

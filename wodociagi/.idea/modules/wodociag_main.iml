@@ -14,9 +14,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../wodociag/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../wodociag/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../wodociag/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:8.0.13" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-java:3.6.1" level="project" />
   </component>
 </module>

@@ -13,8 +13,6 @@ import java.util.ResourceBundle;
 
 public class Controller implements Initializable {
 
-    @FXML private NumberAxis xAxis;
-    @FXML private NumberAxis yAxis;
     @FXML private LineChart<?,?> LineChart;
     XYChart.Series series= new XYChart.Series();
     @FXML private TextField rangeStartTextField;
@@ -38,10 +36,5 @@ public class Controller implements Initializable {
             series.getData().add(new XYChart.Data(i, wielomian.getResult(i)));
         }
     }
-    int funkcjaKwadratowa(int x){
-        return x*x;
-    }
-
-
 }
 //(\+|\-)(\d*)(\w)(\^)(\-?\d*)

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.chart.CategoryAxis?>
 <?import javafx.scene.chart.LineChart?>
 <?import javafx.scene.chart.NumberAxis?>
 <?import javafx.scene.control.Button?>
@@ -21,7 +20,7 @@
    <children>
       <Pane prefHeight="600.0" prefWidth="800.0">
          <children>
-            <LineChart fx:id="LineChart" layoutX="143.0" layoutY="44.0" prefHeight="542.0" prefWidth="643.0">
+            <LineChart fx:id="LineChart" layoutX="143.0" layoutY="44.0" legendVisible="false" prefHeight="542.0" prefWidth="643.0">
               <xAxis>
                 <NumberAxis side="BOTTOM" fx:id="xAxis" />
               </xAxis>

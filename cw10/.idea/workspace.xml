@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ca1bd8a-3389-4be4-8be0-9379e80b5932" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/randoms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/randoms.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiThread/GenerateRandoms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MultiThread/GenerateRandoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/java/pl/mberkan/examplewar/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/java/pl/mberkan/examplewar/MyNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/java/pl/mberkan/examplewar/NetworkGraf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/java/pl/mberkan/examplewar/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/java/pl/mberkan/examplewar/Pipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/java/pl/mberkan/examplewar/ViewNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/webapp/addBuildingForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/test/java/ATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/test/java/ATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw5/src/test/java/HeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw5/src/test/java/HeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7_8/out/production/cw7/wykres/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/out/production/cw7/wykres/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7_8/src/wykres/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7_8/src/wykres/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw7_8/src/wykres/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw7_8/src/wykres/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw9/src/sample/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw9/src/sample/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wodociagi/.idea/artifacts/Gradle___wodociag___wodociag_1_0_SNAPSHOT_war__exploded_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wodociagi/.idea/artifacts/Gradle___wodociag___wodociag_1_0_SNAPSHOT_war__exploded_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wodociagi/.idea/modules/wodociag_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../wodociagi/.idea/modules/wodociag_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wodociagi/.idea/modules/wodociag_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../wodociagi/.idea/modules/wodociag_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wodociagi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wodociagi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wodociagi/wodociag/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../wodociagi/wodociag/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../wodociagi/wodociag/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -32,9 +58,11 @@
     <session id="-1737694488">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -89,12 +117,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MultiThread/MaxMultiThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
                 <element signature="e#464#465#0" expanded="true" />
               </folding>
@@ -106,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/MultiThread/GenerateRandoms.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -518,7 +546,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -566,14 +593,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546617757016" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546618098603" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw11" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -639,18 +667,21 @@
       <workItem from="1545568393125" duration="155000" />
       <workItem from="1545568588650" duration="19000" />
       <workItem from="1546510148193" duration="1438000" />
-      <workItem from="1546608232190" duration="5020000" />
+      <workItem from="1546608232190" duration="5083000" />
+      <workItem from="1546683171561" duration="90000" />
+      <workItem from="1546704819392" duration="12000" />
+      <workItem from="1546793007924" duration="16000" />
+      <workItem from="1546893940875" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7634000" />
+    <option name="totallyTimeSpent" value="7822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26959848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28489482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -659,7 +690,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -707,13 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,12 +750,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MultiThread/MaxMultiThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#464#465#0" expanded="true" />
           </folding>
@@ -741,7 +765,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/MultiThread/GenerateRandoms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
