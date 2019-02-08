@@ -10,7 +10,7 @@ public class DB {
     public void connect() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            conn = DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/ficon","ficon", "TBzLE3fcvoSVU1NG");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost/wodociag","root", "");
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {
@@ -24,7 +24,7 @@ public class DB {
                 stmt = conn.createStatement();
                 String newValue = ("'"+n.getID()+"','"+n.getAltitude()+"','"+n.getPositionX()+"','"+n.getPositionY()+"','"+n.getPredefinedWaterUsage()+"',"
                         +n.getAdres());
-                stmt.executeUpdate("INSERT INTO wodociag VALUES("+ newValue+");");
+                stmt.executeUpdate("INSERT INTO punkty VALUES("+ newValue+");");
                 System.out.println("Sukces");
                 stmt.close();
             }
