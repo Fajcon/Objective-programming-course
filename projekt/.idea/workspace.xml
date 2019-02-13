@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95d227f-04ba-417e-b77e-0cc65dec3dab" name="Default Changelist" comment="" />
+    <list default="true" id="d95d227f-04ba-417e-b77e-0cc65dec3dab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/DB.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/wodociag/.gradle/" />
     <ignored path="$PROJECT_DIR$/wodociag/build/" />
     <ignored path="$PROJECT_DIR$/wodociag/out/" />
@@ -56,7 +58,29 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/DB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="221" column="17" selection-start-line="221" selection-start-column="17" selection-end-line="221" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/ViewNodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,8 +98,8 @@
       <find>blue</find>
       <find>red</find>
       <find>conn2</find>
-      <find>getwa</find>
       <find>add</find>
+      <find>getwa</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,9 +134,9 @@
         <option value="$PROJECT_DIR$/wodociag/src/main/webapp/CSS/style.css" />
         <option value="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/NewNetworkServlet.java" />
         <option value="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/ViewNodes.java" />
-        <option value="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/DB.java" />
         <option value="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/NodeServlet.java" />
         <option value="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/AddNode.java" />
+        <option value="$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/DB.java" />
       </list>
     </option>
   </component>
@@ -135,8 +159,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wodociag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wodociag" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="wodociag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wodociag" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wodociag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wodociag" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="wodociag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wodociag" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wodociag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wodociag" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="examplewar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wodociag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wodociag" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -408,11 +475,12 @@
       <workItem from="1550050067874" duration="6289000" />
       <workItem from="1550056713141" duration="271000" />
       <workItem from="1550057488686" duration="141000" />
+      <workItem from="1550057643921" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83026000" />
+    <option name="totallyTimeSpent" value="84352000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,8 +493,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25219473" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25618514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -436,7 +505,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29967427" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31270358" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,7 +516,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32937366" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32899022" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32937366" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -484,11 +553,26 @@
     <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/NewNetworkServlet.java" />
     <entry file="file://$PROJECT_DIR$/wodociag/src/main/webapp/header.jsp" />
     <entry file="file://$PROJECT_DIR$/wodociag/src/main/webapp/addBuildingForm.jsp" />
-    <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/DB.java" />
-    <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/ViewNodes.java" />
     <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/Node.java" />
     <entry file="file://$PROJECT_DIR$/wodociag/src/main/webapp/CSS/style.css" />
     <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/AddNode.java" />
+    <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/ViewNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wodociag/src/main/java/pl/mberkan/examplewar/DB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="221" column="17" selection-start-line="221" selection-start-column="17" selection-end-line="221" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
