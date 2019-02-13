@@ -1,0 +1,68 @@
+#all{
+    width: 90%;
+    background-color: burlywood;
+    margin: auto;
+    min-height: 300px;
+    padding: 0px 10px;
+    height: 100%;
+}
+#menu{
+    width: 90%;
+    height: 40px;
+    margin: auto;
+    padding: 10px;
+    background-color: gray ;
+}
+#content{
+    width: 90%;
+    min-height: 400px;
+    height: 100%;
+    margin: auto;
+    padding: 10px;
+    background-color: darkgrey;
+}
+p.warning{
+    color: darkred;
+}
+
+p.alert{
+    color: orangered;
+}
+
+form.menu{
+    float: left;
+}
+input[type=submit]{
+    padding:5px 15px;
+    background:#ccc;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form.menu input[type=submit]{
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+}
+
+/* Always set the map height explicitly to define the size of the div\n" +
+ * element that contains the map. */
+#map {
+    height: 80%;
+    width: 90%;
+    margin: auto;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    background-color: burlywood;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
